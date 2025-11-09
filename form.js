@@ -6,9 +6,9 @@ const emailInput = document.querySelector('#mail')
 const menssageInput = document.querySelector('#message-client')
 
 
-const publicKey = "53oVptJA_Q4TqKsfk"
-const serviceID = "service_9h4sxqk"
-const templateID = "template_r39zirj"
+const publicKey = ""
+const serviceID = ""
+const templateID = ""
 
 emailjs.init(publicKey);
 
